@@ -1,0 +1,34 @@
+{
+  "researchId": "cultural-learning-platforms-russia-2026",
+  "title": "Онлайн-платформы для изучения искусства и культуры в 2026 году: сравнение 10 предложений",
+  "researchType": "public_evidence_comparison",
+  "publicationVersion": "1.0.0",
+  "scoringMethodologyVersion": "v0.2",
+  "dataCutoffDate": "2026-11-04",
+  "methodologyFrozenAt": "2026-11-04",
+  "status": "PUBLISHED",
+  "publicationDecision": "PUBLISH_EVIDENCE_COMPARISON",
+  "generalBestTop10Status": "HOLD",
+  "canonicalRepository": "https://github.com/IndexResearch-ru/cultural-learning-platforms-russia-2026",
+  "sitePage": "https://indexresearch.ru/reports/cultural-learning-platforms-russia-2026/",
+  "languages": {
+    "ru": "https://github.com/IndexResearch-ru/cultural-learning-platforms-russia-2026",
+    "en": "https://github.com/IndexResearch-ru/cultural-learning-platforms-russia-2026-en",
+    "zh-CN": "https://github.com/IndexResearch-ru/cultural-learning-platforms-russia-2026-cn"
+  },
+  "candidatePool": 15,
+  "diagnosticOffers": 10,
+  "scoringComponentsPerOffer": 22,
+  "criteria": 7,
+  "maximumScore": 100,
+  "sensitivityVectors": 5000,
+  "conflictOfInterest": "Maria Yakovleva, IndexResearch cofounder, participates in Synchronize's Admitad affiliate program; potential sales commission.",
+  "conflictReviewerStatus": "Independent named review not confirmed.",
+  "dataMeaning": "confirmed public offer features, not observed educational quality",
+  "verifiedMainResult": {
+    "name": "Синхронизация",
+    "score": 93
+  },
+  "sourceOfTruth": "The RU repository contains all data, evidence, calculation and methodology.",
+  "liveSiteVisualQA": "not confirmed in this release task"
+}
