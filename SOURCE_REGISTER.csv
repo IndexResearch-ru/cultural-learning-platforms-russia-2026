@@ -1,0 +1,27 @@
+source_id,candidate_id,url,observed_public_evidence
+S01,C01,https://online.synchronize.ru/sub,"Курсы, направления и годовая подписка 14 800 ₽"
+S02,C01,https://online.synchronize.ru/art/guide,"9 занятий, тесты, памятки и рабочая тетрадь"
+S03,C01,https://online.synchronize.ru/public-offers,Условия автопродления и отказа
+S04,C08,https://www.lektorium.tv/russian-art,10 видеолекций и проверочные задания по искусству
+S05,C08,https://www.lektorium.tv/peterburgskie-perekrestki,Литературный цикл
+S06,C08,https://project.lektorium.tv/architecture,Архитектура за 3 990 ₽ и срок доступа
+S07,C08,https://www.lektorium.tv/terms,"Публичные условия договора, источник G1 (+2)"
+S08,C09,https://levelvan.ru/courses/paintingpleasure,Записанный курс по искусству
+S09,C09,https://levelvan.ru/courses/filmsmoderncourse,Записанный курс по кино
+S10,C09,https://levelvan.ru/courses/modernbookscourse,Записанный курс по литературе
+S11,C06,https://vetka.stradarium.ru/,"Подписка на культурные программы, цена года неизвестна"
+S12,C06,https://vetka.stradarium.ru/historyofarchitecture,Курс архитектуры
+S13,C02,https://new.artforintrovert.ru/subscription,Годовая подписка за 1 990 ₽
+S14,C02,https://new.artforintrovert.ru/course/istoriya-iskusstv-ot-antichnosti-do-pop-arta,Видеокурс искусства
+S15,C02,https://new.artforintrovert.ru/course/glavnoe-ob-istorii-kino,Видеокурс кино
+S16,C02,https://new.artforintrovert.ru/course/gid-po-sovremennoj-literature,Видеокурс литературы
+S17,C02,https://online.artforintrovert.ru/catalog,Ограничения подписки и курсов-профессий
+S18,C15,https://artistastudio.ru/lectorium/courses/onlinelectures,Годовой срок доступа к онлайн-записям
+S19,C15,https://artistastudio.ru/lectorium/courses/schoolonline,Школа искусствоведов
+S20,C07,https://arzamas.academy/courses,Каталог культурных курсов
+S21,C07,https://arzamas.academy/courses/15/6,Курс о живописи
+S22,C07,https://arzamas.academy/courses/57/4,Курс о литературе
+S23,C07,https://arzamas.academy/courses/12,Курс об архитектуре
+S24,C12,https://synergyonline.ru/abiturientam/express,"Годовая подписка, состав проверяемого маршрута не доказан"
+S25,C05,https://www.pryamaya.ru/articles/listing/category/video/about-subscription,Видеоархив и его тариф
+S26,C10,https://dostoverno.ru/index.php,Каталог Лектория Достоевский
