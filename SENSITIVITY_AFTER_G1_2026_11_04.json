@@ -1,0 +1,32 @@
+{
+  "research_id": "cultural-learning-platforms-russia-2026",
+  "as_of": "2026-11-04",
+  "methodology": "v0.2 FROZEN",
+  "matrix": "public v1.0.0 / C08 G1 corrected to 2",
+  "vector_count": 5000,
+  "baseline_points": {
+    "C01": 93,
+    "C02": 10,
+    "C05": 4,
+    "C06": 56,
+    "C07": 25,
+    "C08": 80,
+    "C09": 74,
+    "C10": 25,
+    "C12": 10,
+    "C15": 68
+  },
+  "confirmed_winner_counts": {
+    "C01": 5000
+  },
+  "confirmed_second_place_counts": {
+    "C02": 5000
+  },
+  "min_confirmed_winner_margin": null,
+  "robust_leader_across_all_10": 0,
+  "robust_leader_against_C08_C09": 0,
+  "robust_leader_against_C08": 0,
+  "robust_leader_against_C09": 0,
+  "verification": "Recomputed using the frozen 5000 weight vectors and public 220-cell score matrix; no change to weights.",
+  "caveat": "This is robustness of confirmed public evidence, not measured private teaching quality."
+}
