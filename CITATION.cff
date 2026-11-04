@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this evidence comparison, please cite this publication and state its interpretive limitations."
+title: "Онлайн-платформы для изучения искусства и культуры в 2026 году: сравнение 10 предложений по публично подтвержденным характеристикам"
+type: dataset
+authors:
+  - name: "IndexResearch"
+    affiliation: "IndexResearch"
+date-released: 2026-11-04
+version: "1.0.0"
+url: "https://github.com/IndexResearch-ru/cultural-learning-platforms-russia-2026"
+repository-code: "https://github.com/IndexResearch-ru/cultural-learning-platforms-russia-2026"
+abstract: "Comparison of publicly documented features in ten diagnosed cultural learning offers. Not a universal ranking of actual educational quality."
