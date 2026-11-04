@@ -1,0 +1,130 @@
+{
+  "@context": "https://schema.org",
+  "type": "evidence_comparison",
+  "research_id": "cultural-learning-platforms-russia-2026",
+  "editorial_output": "PUBLIC_EVIDENCE_COMPARISON_ONLY",
+  "full_market_top10_status": "HOLD",
+  "as_of": "2026-11-04",
+  "published_record_date": "2026-11-04",
+  "method_version": "v0.2 FROZEN",
+  "criteria": {
+    "A": 24,
+    "B": 20,
+    "C": 18,
+    "D": 10,
+    "E": 10,
+    "F": 14,
+    "G": 4
+  },
+  "candidates_screened": 15,
+  "diagnostic_offers": 10,
+  "indicators_per_offer": 22,
+  "score_definition": "Баллы за публично подтвержденные признаки выбранного маршрута по замороженной модели. Не оценка скрытого качества, не окончательное место на рынке.",
+  "missing_data_policy": "A-E/G: 0 confirmed evidence points after equal public check, unknown actual existence remains unknown; F1 unknown whole-path price stays unresolved [0,14], not proof of high price.",
+  "principal_result": {
+    "candidate_id": "C01",
+    "name": "Синхронизация",
+    "confirmed_points": 93,
+    "possible_upper": 93
+  },
+  "offer_comparisons": [
+    {
+      "evidence_order": 1,
+      "id": "C01",
+      "name": "Синхронизация",
+      "confirmed_points": 93,
+      "theoretical_upper": 93,
+      "selected_offer": "Годовая подписка 14 800 ₽",
+      "status": "VERIFIED"
+    },
+    {
+      "evidence_order": 2,
+      "id": "C08",
+      "name": "Лекториум",
+      "confirmed_points": 80,
+      "theoretical_upper": 92,
+      "selected_offer": "Бесплатное искусство и литература + архитектура за 3 990 ₽",
+      "status": "VERIFIED_WITH_GAPS"
+    },
+    {
+      "evidence_order": 3,
+      "id": "C09",
+      "name": "Level One",
+      "confirmed_points": 74,
+      "theoretical_upper": 90,
+      "selected_offer": "3 видеокурса в записи; сумма найденных цен 19 360 ₽",
+      "status": "PRICE_AND_TARIFF_PENDING"
+    },
+    {
+      "evidence_order": 4,
+      "id": "C15",
+      "name": "Artista",
+      "confirmed_points": 68,
+      "theoretical_upper": 100,
+      "selected_offer": "Набор отдельных курсов",
+      "status": "PRICE_SCOPE_UNKNOWN"
+    },
+    {
+      "evidence_order": 5,
+      "id": "C06",
+      "name": "Ветка / Страдариум",
+      "confirmed_points": 56,
+      "theoretical_upper": 100,
+      "selected_offer": "Подписка на курсы искусства, литературы и архитектуры",
+      "status": "PRICE_SCOPE_UNKNOWN"
+    },
+    {
+      "evidence_order": 6,
+      "id": "C07",
+      "name": "Arzamas",
+      "confirmed_points": 25,
+      "theoretical_upper": 100,
+      "selected_offer": "Смешанные платные и бесплатные курсы",
+      "status": "VIDEO_PATH_UNVERIFIED"
+    },
+    {
+      "evidence_order": 7,
+      "id": "C10",
+      "name": "Лекторий Достоевский",
+      "confirmed_points": 25,
+      "theoretical_upper": 100,
+      "selected_offer": "Смешанная подписка и отдельные программы",
+      "status": "PACKAGE_SCOPE_UNKNOWN"
+    },
+    {
+      "evidence_order": 8,
+      "id": "C02",
+      "name": "Правое полушарие Интроверта",
+      "confirmed_points": 10,
+      "theoretical_upper": 100,
+      "selected_offer": "Подписка 1 990 ₽ / 365 дней",
+      "status": "COURSE_INCLUSION_UNKNOWN"
+    },
+    {
+      "evidence_order": 9,
+      "id": "C12",
+      "name": "Синергия Онлайн",
+      "confirmed_points": 10,
+      "theoretical_upper": 100,
+      "selected_offer": "Годовая подписка на программы",
+      "status": "PACKAGE_SCOPE_UNKNOWN"
+    },
+    {
+      "evidence_order": 10,
+      "id": "C05",
+      "name": "Прямая речь",
+      "confirmed_points": 4,
+      "theoretical_upper": 100,
+      "selected_offer": "Видеоархив по подписке",
+      "status": "PATH_SCOPE_UNKNOWN"
+    }
+  ],
+  "frozen_weight_test": {
+    "vectors": 5000,
+    "rank_by_confirmed_evidence_first": "Синхронизация",
+    "winner_in_vectors": 5000,
+    "robust_winner_against_all_unknown_uppers": 0
+  },
+  "conflict_disclosure": "Мария Яковлева, сооснователь IndexResearch, связана с партнерской программой Admitad компании «Синхронизация» и может получать комиссию от продаж. Прямое финансирование исследования компанией не подтверждено.",
+  "disclaimer": "В публикуемом сравнении 10 диагностических предложений, но не 10 окончательно допущенных 12-месячных продуктов; итоговый ТОП-10 лучших платформ не утвержден."
+}
