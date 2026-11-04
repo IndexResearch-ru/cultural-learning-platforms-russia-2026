@@ -25,3 +25,28 @@ S23,C07,https://arzamas.academy/courses/12,Курс об архитектуре
 S24,C12,https://synergyonline.ru/abiturientam/express,"Годовая подписка, состав проверяемого маршрута не доказан"
 S25,C05,https://www.pryamaya.ru/articles/listing/category/video/about-subscription,Видеоархив и его тариф
 S26,C10,https://dostoverno.ru/index.php,Каталог Лектория Достоевский
+P501,C01,https://online.synchronize.ru/sub,"Тариф 14 800 ₽/год, 160+ курсов и направления"
+P502,C01,https://online.synchronize.ru/art/guide,"9 уроков, тесты, памятки, рабочая тетрадь"
+P503,C01,https://online.synchronize.ru/public-offers,Автопродление и отмена
+P504,C02,https://new.artforintrovert.ru/subscription,"365 дней, 1990 ₽, 2500+ лекций; состав трех курсов не подтвержден"
+P505,C02,https://new.artforintrovert.ru/course/istoriya-iskusstv-ot-antichnosti-do-pop-arta,"15 видео, 5 блоков, экзамен; включение в подписку не доказано"
+P506,C02,https://new.artforintrovert.ru/course/glavnoe-ob-istorii-kino,"12 видео, экзамен; включение в подписку не доказано"
+P507,C02,https://new.artforintrovert.ru/course/gid-po-sovremennoj-literature,"12 видео, экзамен; включение в подписку не доказано"
+P508,C02,https://online.artforintrovert.ru/catalog,Различие обычных и профессиональных курсов
+P509,C06,https://vetka.stradarium.ru/,"Культурные курсы по подписке, годовая цена не подтверждена"
+P510,C06,https://vetka.stradarium.ru/historyofarchitecture,Курс по архитектуре в подписке
+P511,C08,https://www.lektorium.tv/russian-art,Десять видеолекций по русскому искусству XX века
+P512,C08,https://www.lektorium.tv/peterburgskie-perekrestki,Литературный цикл
+P513,C08,https://project.lektorium.tv/architecture,Архитектура за 3990 ₽/год
+P514,C09,https://levelvan.ru/courses/paintingpleasure,"Видео по искусству, упражнения, материалы"
+P515,C09,https://levelvan.ru/courses/filmsmoderncourse,Отдельный видеокурс современного кино
+P516,C09,https://levelvan.ru/courses/modernbookscourse,Отдельный видеокурс современной литературы
+P517,C15,https://artistastudio.ru/lectorium/courses/onlinelectures,Новая модель года доступа; тесты большой школы искусствоведов
+P518,C15,https://artistastudio.ru/lectorium/courses/schoolonline,Школа искусствоведов
+P519,C15,https://lectorium.artistastudio.ru/onlinelectures,Архивное описание: требует проверки против нового сайта
+P520,C05,https://www.pryamaya.ru/articles/listing/category/video/about-subscription,"Подписка на архив и тариф, не весь курсный комплект"
+P521,C05,https://www.pryamaya.ru/courses,Отдельные курсы в записи
+P522,C07,https://arzamas.academy/courses,"Культурный каталог, полный видеомаршрут не доказан"
+P523,C13,https://onskills.ru/kurs-istorii-iskusstv,Арт-курс OnSkills
+P524,C13,https://onskills.ru/kurs-po-istorii-kino,Курс истории кино OnSkills
+P525,C12,https://synergyonline.ru/abiturientam/express,Годовая подписка Synergy Online
