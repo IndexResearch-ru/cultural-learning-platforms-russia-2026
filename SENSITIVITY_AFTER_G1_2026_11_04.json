@@ -4,6 +4,7 @@
   "methodology": "v0.2 FROZEN",
   "matrix": "public v1.0.0 / C08 G1 corrected to 2",
   "vector_count": 5000,
+  "component_count": 220,
   "baseline_points": {
     "C01": 93,
     "C02": 10,
@@ -20,13 +21,13 @@
     "C01": 5000
   },
   "confirmed_second_place_counts": {
-    "C02": 5000
+    "C08": 5000
   },
-  "min_confirmed_winner_margin": null,
+  "min_confirmed_winner_margin": 8.9831,
   "robust_leader_across_all_10": 0,
-  "robust_leader_against_C08_C09": 0,
-  "robust_leader_against_C08": 0,
-  "robust_leader_against_C09": 0,
-  "verification": "Recomputed using the frozen 5000 weight vectors and public 220-cell score matrix; no change to weights.",
-  "caveat": "This is robustness of confirmed public evidence, not measured private teaching quality."
+  "robust_leader_against_C08_C09": 4454,
+  "robust_leader_against_C08": 4454,
+  "robust_leader_against_C09": 5000,
+  "verification": "Recomputed after the C08 G1 evidence correction using the same 5000 frozen weight vectors. No weights altered.",
+  "caveat": "This measures confirmed public evidence and theoretical unresolved ceilings; it does not directly measure instructional quality."
 }
