@@ -1,0 +1,22 @@
+{
+  "research_id": "cultural-learning-platforms-russia-2026",
+  "as_of": "2026-11-04",
+  "scoring_model": "v0.2 FROZEN",
+  "matrix_revision": "v0.5 UNRESOLVED",
+  "pilot_candidates": 10,
+  "components_per_candidate": 22,
+  "component_cells": 220,
+  "weights_total": 100.0,
+  "weight_vectors": 5000,
+  "weights_sha256": "10076b2a18d120f08d1f5c1071f9750e5cee91801c7f0c49d9bfff498a8da851",
+  "sync_verified_floor": 93.0,
+  "sync_possible_ceiling": 93.0,
+  "top_verified_only_winner_counts": {
+    "C01": 5000
+  },
+  "sync_top_by_verified_only": 5000,
+  "min_verified_only_winner_gap": 10.8753,
+  "mathematically_guaranteed_single_leader_vectors": 0,
+  "publication_decision": "HOLD",
+  "note": "Confirmed-floor leaderboard is NOT a final ranking. Price F1 remains an UNKNOWN interval when no comparable full 12-month price is verified. The core intake eligibility and certain selected routes remain unresolved."
+}
