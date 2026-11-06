@@ -1,7 +1,7 @@
 source_id,candidate_id,url,observed_public_evidence
-S01,C01,https://online.synchronize.ru/sub,"Курсы, направления и годовая подписка 14 800 ₽"
-S02,C01,https://online.synchronize.ru/art/guide,"9 занятий, тесты, памятки и рабочая тетрадь"
-S03,C01,https://online.synchronize.ru/public-offers,Условия автопродления и отказа
+S01,C01,https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fsub,"Курсы, направления и годовая подписка 14 800 ₽"
+S02,C01,https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fart%2Fguide,"9 занятий, тесты, памятки и рабочая тетрадь"
+S03,C01,online.synchronize.ru/public-offers,Условия автопродления и отказа
 S04,C08,https://www.lektorium.tv/russian-art,10 видеолекций и проверочные задания по искусству
 S05,C08,https://www.lektorium.tv/peterburgskie-perekrestki,Литературный цикл
 S06,C08,https://project.lektorium.tv/architecture,Архитектура за 3 990 ₽ и срок доступа
@@ -25,9 +25,9 @@ S23,C07,https://arzamas.academy/courses/12,Курс об архитектуре
 S24,C12,https://synergyonline.ru/abiturientam/express,"Годовая подписка, состав проверяемого маршрута не доказан"
 S25,C05,https://www.pryamaya.ru/articles/listing/category/video/about-subscription,Видеоархив и его тариф
 S26,C10,https://dostoverno.ru/index.php,Каталог Лектория Достоевский
-P501,C01,https://online.synchronize.ru/sub,"Тариф 14 800 ₽/год, 160+ курсов и направления"
-P502,C01,https://online.synchronize.ru/art/guide,"9 уроков, тесты, памятки, рабочая тетрадь"
-P503,C01,https://online.synchronize.ru/public-offers,Автопродление и отмена
+P501,C01,https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fsub,"Тариф 14 800 ₽/год, 160+ курсов и направления"
+P502,C01,https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fart%2Fguide,"9 уроков, тесты, памятки, рабочая тетрадь"
+P503,C01,online.synchronize.ru/public-offers,Автопродление и отмена
 P504,C02,https://new.artforintrovert.ru/subscription,"365 дней, 1990 ₽, 2500+ лекций; состав трех курсов не подтвержден"
 P505,C02,https://new.artforintrovert.ru/course/istoriya-iskusstv-ot-antichnosti-do-pop-arta,"15 видео, 5 блоков, экзамен; включение в подписку не доказано"
 P506,C02,https://new.artforintrovert.ru/course/glavnoe-ob-istorii-kino,"12 видео, экзамен; включение в подписку не доказано"
